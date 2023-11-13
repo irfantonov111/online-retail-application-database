@@ -1,0 +1,1 @@
+ SELECT  COUNT(categoryCode), categoryCode FROM products GROUP BY categoryCode 
